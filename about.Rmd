@@ -1,10 +1,37 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  Advice at your service
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+  
+## GENERAL INFORMATION   
+  
+MILESIUS CONSULTING LTD is a company based in Cyprus by the ref. Number: HE434212.  
+Our services consist of dedicated marketing, commercial - technical expertise and advice, as detailed below, to support the Operating Companies / Organizations in the identification, understanding, assessment and setting of appropriate business approach of potential opportunities for different range of products, solutions or services that are willing to promote in the territory of Cyprus, European and Global Markets
+
+    
+## SHAREHOLDERS  
+  
+•	Lakis Christodoulou 
+CABINET SECRETARIAL LTD  
+•	Giorgos Protopapas  
+•	Ioannis Ioannou  
+•	Tassos Georgiou    
+
+## CONTACT
+TEL:  
+  
+00357 22376111  
+00357 99621251  
+00357 99573902  
+  
+MAIL:  
+  
+Androcleous 9, 3rd floor,
+0ffice 301, 1060 Nicosia, Cyprus
+lakisch@cytanet.com.cy
 

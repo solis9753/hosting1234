@@ -1,7 +1,7 @@
 ---
 title: "Milisious"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  MILESIUS CONSULTING LTD
 site: distill::distill_website
 ---
 
@@ -13,3 +13,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+## SERVICES DESCRIPTION
+
+The Business Adviser provides the foreign Companies / Organizations, the following services:
+
+• Describe the economic, regulatory, geostrategic and political environment.\
+• Detail the internal organizations and key decision-making processes of potential customers and relevant key public institutions.\
+• Identify strategic opportunities, taking into account our customer's vision.\
+• Assess the presence, strengths and weaknesses of our customers competitors.\
+• Upon request, assist in the organization of contacts with public authorities/institutions, state or private institutions (e.g., export credit agency), state or private companies (e.g., banks, investors, industrial companies).\
+• Facilitating/ assisting foreign Companies/Organizations to participate in several Tenders launched by the Cyprus Government.  
+  
+![](images/image4.png)

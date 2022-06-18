@@ -4,6 +4,8 @@ description: |
   Milisious
 output_dir: "_site"
 navbar:
+  logo:
+    image: images/Logo.png
   right:
     - text: "Home"
       href: index.html
